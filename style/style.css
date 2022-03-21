@@ -1,0 +1,160 @@
+.nav_button {
+    color: #2647C4;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+#hoax_button{
+    border-radius: 5px;
+    background-color: #2848C6;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 5%;
+    width: 20%;
+    height: 100%;
+}
+
+.nav_button_right{
+    color: #6D7A92;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.nav_list{
+    list-style: none;
+    width: 100%;
+    height: 3em;
+}
+
+.home_button{
+    width: 30%;
+    text-align: center;
+    float: left;
+    font-size: xx-large;
+    height: 100%;
+}
+
+.right_button{
+    padding: .5%;
+    text-decoration: none;
+    font-size: x-large;
+    width: 17%;
+    text-align: center;
+    height: 100%;
+}
+
+.flex_right {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+}
+
+.middle_items{
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+
+.middle_right{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+.middle_left{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle_card{
+    width: 50%;
+    height: 60%;
+}
+
+.middle_card h1 {
+    font-weight: bolder;
+    font-size: 3.5em;
+    color: #1E3E73;
+}
+
+.middle_card p {
+    color: #6D7A92;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.middle_card img {
+    border-radius: 5px;
+}
+
+.middle_schedule_card{
+    width: 100%;
+    margin-top: -10%;
+    z-index: 100;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.middle_right img{
+    width: 90%;
+    height: 100%;
+}
+
+.schedule {
+    width: 75%;
+    color: #1E3E73;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.schedule img {
+    border-radius: 5px;
+}
+
+.information {
+    display: flex;
+    background-color: rgba(250,252,254,95%);
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 2%;
+    border: 1px solid rgb(230,241,253);
+}
+
+.single_card{
+    color: #6D7A92;
+    font-weight: 500;
+    font-size: .8em;
+    margin-top: 2%;
+    width: 20%;
+}
+
+.p_card{
+    color:#1E3E73;
+    margin-top: -7%;
+    margin-left: 10%;
+    font-weight: 700;
+}
+
+.submit_button{
+    border-radius: 5px;
+    background-color: #2848C6;
+    width: 15%;
+    height: 2.5em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.submit_button a {
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+
+.brands_section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
